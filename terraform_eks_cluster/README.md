@@ -7,13 +7,13 @@ Install AWS CLI and terraform before you do this cluster creation.
 
 Follow the below link to Install AWS CLI.
 
-`https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html`
+```https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html```
 
 **Install Terraform**
 
 Next, Install Terraform using the below link.
 
-'''https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli'''
+```https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli```
 
 **Connect Terraform with AWS**
 
