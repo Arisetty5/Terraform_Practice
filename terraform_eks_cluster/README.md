@@ -1,4 +1,4 @@
-Terraform EKS Cluster
+**Terraform EKS Cluster**
 
 This Project demonstrates how to effectively create an EKS cluster on AWS with the help of Terraform.
 Install AWS CLI and terraform before you do this cluster creation.
@@ -7,7 +7,7 @@ Install AWS CLI and terraform before you do this cluster creation.
 
 Follow the below link to Install AWS CLI.
 
-'''https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html'''
+`https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html`
 
 **Install Terraform**
 
